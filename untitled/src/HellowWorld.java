@@ -1,6 +1,7 @@
 import org.w3c.dom.ls.LSOutput;
 
-public class HellowWorld {
-    public static void main(String[] args) {
-        
-    }}
+import javax.print.attribute.standard.PrinterLocation;
+
+public class HellowWorld { PrinterLocation  public static void main(String[] args) {
+    }
+}
